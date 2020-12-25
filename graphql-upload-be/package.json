@@ -1,0 +1,17 @@
+{
+  "name": "graphql-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js ."
+  },
+  "keywords": [],
+  "author": "Sushant Sahu <sushant87@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
